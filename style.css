@@ -1,0 +1,4 @@
+:root {
+    color-scheme: dark light;
+    --background-color: light-dark(#c0c0c0, #000000);
+}
